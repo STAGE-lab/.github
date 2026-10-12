@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
 <em align="center">
 Building the STAGE where Sci-Fi becomes Science Fact.
